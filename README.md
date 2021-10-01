@@ -31,35 +31,10 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/) to lea
 # Getting Started:
 - Register on [Hacktoberfest website](https://hacktoberfest.digitalocean.com)
 - Fork this repository
-
-```
-- Create Branch:
-```
-git checkout -b branch_name
-```
-- commit and push:
-```
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
-```
-- PS: You can manually change files in github also, but not recommended!
-- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-- Wait for your PR review and merge approval :)
-- Star this repository if you found this process fun :)
+- Add something innovatine web development divs in index.html and style.css
 
 # How to contribute?
 
-1. Add your details in `CONTRIBUTORS.md` by following sample template:
-
-```
----
-#### Name: YOUR_NAME
-- Place: City, State, Country
-- Bio: Who are you? Spice it up XD
-- GitHub: GitHub user-name
----
-```
 
 2. Make div of your choice using any CSS framework but preferabbly which are popular. It can be any thing you think is out of box! 
 
@@ -74,8 +49,6 @@ PS: Do not make it extra large and try to make it responsive but atlease make su
     padding-top: 15%;
   }
 ```
-
-4. If you are using different CSS framework please mention CDN link in comment when you PR.
 
 It is recommended that you do all the steps :)
 
